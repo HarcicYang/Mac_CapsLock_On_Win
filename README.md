@@ -6,7 +6,7 @@ Implement the CapsLock key funcation of macOS in Windows
 
 Q: How to use?
 
-A: Are you fuc**ng fool? Just run HarcicCapsLock.exe in https://github.com/HarcicYang/Mac_CapsLock_On_Win/releases.
+A: Are you fuc**ng fool? Just run <code>HarcicCapsLock.exe</code> in https://github.com/HarcicYang/Mac_CapsLock_On_Win/releases.
 
 
 Q: Why did you make this?
