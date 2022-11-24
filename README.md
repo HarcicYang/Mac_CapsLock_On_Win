@@ -1,5 +1,6 @@
 # Mac CapsLock On Win
 Implement the CapsLock key funcation of macOS in Windows
+
 为Windows带来macOS下的CapsLock键功能
 
 <h2>FAQs</h2>
