@@ -9,7 +9,7 @@ Q: How to use?
 
 这玩意怎么用啊？
 
-A: Are you fuc**ng fool? Just run <code>HarcicCapsLock.exe</code> in **[Releases](https://github.com/HarcicYang/Mac_CapsLock_On_Win/releases)**. 
+A: Are you fuc**ng fool? Just run <code>HarcicCapsLock.exe</code> in **[Releases](https://github.com/HarcicYang/Mac_CapsLock_On_Win/releases)** on your Windows PC. 
 
 你个S*，去 **[Releases](https://github.com/HarcicYang/Mac_CapsLock_On_Win/releases)** 下载就好了，那个叫<code>HarcicCapsLock.exe</code>的
 
